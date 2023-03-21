@@ -1,10 +1,9 @@
 .malysh__block {
-   margin: 20% auto;
-   width: 50%;
-   /* display: flex;
-   align-items: center; */
+   margin: 50% auto;
+    width: 60%;
 }
 .malysh {
-   height: 50%;
-   width: 50%;
+  
+   width: 100%;
+   display: block;
 }
