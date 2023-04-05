@@ -3,7 +3,7 @@
    margin: 10px auto;
    width: 50px;
    height: 20px;
-   background-color: #f4fdfd;;
+   background-color: #f4fdfd42;
 }
 .malysh__block {
    margin: 50% auto;
@@ -13,6 +13,17 @@
   
    width: 100%;
    display: block;
+}
+.point {
+   width: 10px;
+   height: 10px;
+   border-radius: 50%;
+   /* background-color: red; */
+   margin: 0 auto;
+
+}
+.red {
+background-color: #52ff0069; 
 }
 
 .opacity {
